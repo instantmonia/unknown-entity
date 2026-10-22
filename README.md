@@ -16,4 +16,4 @@ The game was conceptualized and created independently using HTML, CSS, and JavaS
 
 ## Play
 
-[Play UNKNOWN ENTITY](https://YOUR-USERNAME.github.io/unknown-entity/)
+[Play UNKNOWN ENTITY](https://instantmonia.github.io/unknown-entity/)
